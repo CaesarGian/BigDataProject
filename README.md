@@ -6,7 +6,7 @@ Proyek individu analisis data berskala besar menggunakan PySpark pada Google Col
 |---|---|
 | **Nama** | Caesar Gian Indrarizky |
 | **NIM** | 103012300218 |
-| **File utama** | `Mid_Term_Big_Data_103012300218_Caesar_Gian_I__Revisi_.ipynb` |
+| **File utama** | `Mid_Term_Big_Data_103012300218_Caesar_Gian_I.ipynb` |
 
 ## 1. Ringkasan
 
